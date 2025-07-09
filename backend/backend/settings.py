@@ -151,7 +151,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:8000",  # for local development
-    "https://your-vercel-app-url.vercel.app",  # TODO: Replace with your actual Vercel URL
+    "https://asr-iran-front.vercel.app/",  
 ]
 
 ALLOWED_HOSTS = ['*']
