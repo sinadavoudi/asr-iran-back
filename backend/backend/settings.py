@@ -151,7 +151,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:8000",  # for local development
-    "https://asr-iran-front.vercel.app/",  
+    "https://asr-iran-front.vercel.app/"
 ]
 
 ALLOWED_HOSTS = ['*']
